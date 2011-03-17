@@ -1,0 +1,21 @@
+RainbowWool
+Bring colour to your wool
+
+RainbowWool is an innovative way to bring colour to wool based on redstone input. 
+Usually, dyes are required to get wool to change to anything other than dull old white. 
+With RainbowWool, a simple redstone circuit could change everything.
+
+RainbowWool uses the strength of nearby redstone current to set colours of wool. 
+For every increase in current by 1, the wool will change colour to the corresponding data value. 
+Use RainbowWool to brighten up your skyscraper, colourise your disco or maybe even create a colour display.
+
+
+Changelog:
+
+version 1.1 - jascotty2
+updated for bukkit 516
+fixed stack overflow errors
+
+
+v1.0 - fullwall
+initial release.
